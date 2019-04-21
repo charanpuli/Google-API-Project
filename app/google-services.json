@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073776283832",
+    "firebase_url": "https://speedy-cab.firebaseio.com",
+    "project_id": "speedy-cab",
+    "storage_bucket": "speedy-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073776283832:android:0f5f476ed864849b",
+        "android_client_info": {
+          "package_name": "com.example.charanpuli.speedy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073776283832-21vhf11rb989bastbgt4qofd82gd9qm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charanpuli.speedy",
+            "certificate_hash": "62e05c7736220f59c939b7f3bac514bbb680376b"
+          }
+        },
+        {
+          "client_id": "1073776283832-i3a9ou82eak63kq3ucim32i8992q80jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSz0pUf_FG4YjPIrRBU1SV550SzezI7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073776283832-i3a9ou82eak63kq3ucim32i8992q80jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
